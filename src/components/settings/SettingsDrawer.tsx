@@ -250,7 +250,7 @@ function SupportItem() {
       href="https://ko-fi.com/supertiger"
       target="_blank"
       rel="noopener noreferrer"
-      style={{ "display": "none" }}
+      style={{ "text-decoration": "none" }}
     >
       <SettingItemContainer
         style={{
@@ -270,7 +270,7 @@ function SupportItem() {
           </Text>
           <div>
             <Text size={12}>
-              Support this project on Ko-fi to get a supporter badge!
+              Support the original creator of Nerimity on Ko-Fi (not me)!
             </Text>
           </div>
         </div>
