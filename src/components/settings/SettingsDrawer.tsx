@@ -266,7 +266,7 @@ function SupportItem() {
         />
         <div>
           <Text style={{ "font-weight": "bold" }}>
-            {t("settings.drawer.supportMe")}
+            {t("Support SuperKitten!")}
           </Text>
           <div>
             <Text size={12}>
